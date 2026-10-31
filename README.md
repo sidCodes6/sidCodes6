@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff3554?style=for-the-badge&logo=vercel&logoColor=white)](https://protofolio-three-sable.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddalingsh6@gmail.com)
 
-📚 Coding and reading technology articles
+📚 Coding and reading tech articles
 
 </div>
 
