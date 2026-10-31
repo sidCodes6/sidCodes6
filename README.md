@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=2" alt="Siddalinga profile banner" width="100%" />
+<img src="./assets/hero-v3.svg" alt="Siddalinga profile banner" width="100%" />
 
 <img src="./assets/profile-photo.jpg" alt="Siddalinga" width="150" style="border-radius: 50%;" />
 
