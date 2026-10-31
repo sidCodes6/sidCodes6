@@ -13,6 +13,6 @@
   <text x="70" y="204" fill="#247bff" font-family="Arial, sans-serif" font-size="42" font-weight="800">BUILD. ANALYZE. LEARN.</text>
   <text x="70" y="250" fill="#9aaac2" font-family="Arial, sans-serif" font-size="20">Python • SQL • Machine Learning • Visualization • Dashboards</text>
   <circle cx="1055" cy="145" r="82" fill="#101b31" stroke="#247bff" stroke-width="2"/>
-  <text x="1055" y="140" text-anchor="middle" fill="#ff3554" font-family="monospace" font-size="24">KALABURGI</text>
-  <text x="1055" y="170" text-anchor="middle" fill="#f3f6ff" font-family="monospace" font-size="16">KARNATAKA</text>
+  <text x="1055" y="140" text-anchor="middle" fill="#ff3554" font-family="monospace" font-size="24">DATA</text>
+  <text x="1055" y="170" text-anchor="middle" fill="#f3f6ff" font-family="monospace" font-size="16">SCIENCE</text>
 </svg>

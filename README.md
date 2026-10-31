@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff3554?style=for-the-badge&logo=vercel&logoColor=white)](https://protofolio-three-sable.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddalingsh6@gmail.com)
 
-📍 Kalaburgi, Karnataka &nbsp; | &nbsp; 📚 Coding and reading technology articles
+📚 Coding and reading technology articles
 
 </div>
 
@@ -58,6 +58,6 @@ I’m interested in data science, analytics, visualization, machine learning, an
 
 [LinkedIn](https://www.linkedin.com/in/siddaling-sh-99b006c/) · [Portfolio](https://protofolio-three-sable.vercel.app/) · [Email me](mailto:siddalingsh6@gmail.com)
 
-<sub>Built with curiosity from Kalaburgi, Karnataka.</sub>
+<sub>Built with curiosity and a love for technology.</sub>
 
 </div>
