@@ -40,9 +40,13 @@ I am a data science student who enjoys exploring data, building visual explanati
 
 An IoT-driven transit tracking solution designed to make public transportation more reliable for commuters in Bidar. ESP32 and Raspberry Pi hardware work with Neo-6M GPS and SIM7600 cellular modules to capture and broadcast live vehicle locations so passengers can track buses in real time.
 
+*Repository coming soon*
+
 ### 📈 AI Stock Market Price Prediction
 
 An AI-driven web application that studies historical NIFTY 50 data from `yfinance` and uses Long Short-Term Memory neural networks to forecast future price movement. The dashboard combines historical charts, model predictions, backtesting, and an interactive user experience.
+
+[View the NIFTY 50 Stock AI repository](https://github.com/sidCodes6/nifty50-stock-ai)
 
 ## Currently learning
 
